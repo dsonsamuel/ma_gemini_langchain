@@ -31,7 +31,7 @@ print(format_instructions)
 
 # Replace with your BigQuery project ID and dataset
 project_id = 'playpen-355dd5'
-dataset_id = 'GemCore_test1'
+dataset_id = 'GemCore_Payments'
 
 # A shared LLM instance
 llm = GoogleGenerativeAI(model="gemini-2.0-flash")
