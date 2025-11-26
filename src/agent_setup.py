@@ -30,7 +30,7 @@ format_instructions = output_parser.get_format_instructions()
 print(format_instructions)
 
 # Replace with your BigQuery project ID and dataset
-project_id = 'playpen-355dd5'
+project_id = 'tactical-innovation-6aea6b'
 dataset_id = 'GemCore_Payments'
 
 # A shared LLM instance
